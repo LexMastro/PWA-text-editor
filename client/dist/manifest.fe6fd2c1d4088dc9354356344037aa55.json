@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "/assets/icons/icon_512x512.689477961f6dfc7ecd193d6519e5ce23.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_384x384.b6224f379ba6088c3a46d485f963c51d.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_256x256.b9b76bad932d4a5ba682fdad23010387.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_192x192.6470f58ca0ebc396c82a72df9759e4f1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_128x128.7f2ed96ff8341a3b3bb7779a8672ebd5.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_96x96.77fbce0fc6fe76ba5043e9b3f5da7b8d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Text Editor",
+  "short_name": "JATE",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Create notes or code snippets with or without an internet connection",
+  "background_color": "#7eb4e2",
+  "theme_color": "#7eb4e2"
+}
